@@ -5,3 +5,4 @@
 * https://grzegorzgajda.gitbooks.io/spark-examples/content/basics/docker.html
 * http://kiwenlau.com/2016/06/12/160612-hadoop-cluster-docker-update/
 * https://github.com/JoeWoo/hadoop-spark-hive-cluster-docker
+* http://blog.co2y.me/2015/12/27/docker-hadoop-hbase/
